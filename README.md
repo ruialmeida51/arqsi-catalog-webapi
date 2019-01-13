@@ -72,7 +72,7 @@ There are some postman integration tests included as well in the project.
 ## Authors
 
 * **Rui Almeida** -[Github](https://github.com/ruialmeida51)
-* **João Rocha** - [Github](https://github.com/alm0sttt)
+* **João Rocha** - [Github](https://github.com/ojoaorocha)
 * **David Rocha** - [Github](https://github.com/davidRoc)
 
 ## License
